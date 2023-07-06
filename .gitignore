@@ -1,0 +1,15 @@
+PlayBillingForUnity/*.iml
+PlayBillingForUnity/.gradle
+PlayBillingForUnity/local.properties
+PlayBillingForUnity/.idea/caches
+PlayBillingForUnity/.idea/libraries
+PlayBillingForUnity/.idea/modules.xml
+PlayBillingForUnity/.idea/workspace.xml
+PlayBillingForUnity/.idea/navEditor.xml
+PlayBillingForUnity/.idea/assetWizardSettings.xml
+PlayBillingForUnity/.DS_Store
+PlayBillingForUnity/build
+PlayBillingForUnity/captures
+PlayBillingForUnity/.externalNativeBuild
+PlayBillingForUnity/.cxx
+PlayBillingForUnity/local.properties

@@ -1,0 +1,54 @@
+plugins {
+    id 'com.android.library'
+    id 'org.jetbrains.kotlin.android'
+}
+
+android {
+    namespace 'com.uralstech.playbillingforunity'
+    compileSdk 34
+
+    libraryVariants.all { variant ->
+        variant.packageLibraryProvider.configure { task ->
+            task.from('src/main') {
+                include 'dependencies.xml'
+                into '/'
+            }
+        }
+    }
+
+    defaultConfig {
+        minSdk 22
+        targetSdk 34
+
+        consumerProguardFiles "consumer-rules.pro"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+
+    packagingOptions {
+        exclude 'com/unity3d/**'
+    }
+}
+
+dependencies {
+    compileOnly files('libs/classes.jar')
+    implementation 'com.android.billingclient:billing:6.0.1'
+    implementation 'androidx.core:core-ktx:1.10.1'
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.9.0'
+    testImplementation 'junit:junit:4.13.2'
+}
