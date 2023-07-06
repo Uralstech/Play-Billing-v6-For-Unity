@@ -45,7 +45,7 @@ android {
 }
 
 dependencies {
-    compileOnly files('libs/classes.jar')
+    compileOnly files('libs/classes.jar') // Unity classes.jar file
     implementation 'com.android.billingclient:billing:6.0.1'
     implementation 'androidx.core:core-ktx:1.10.1'
     implementation 'androidx.appcompat:appcompat:1.6.1'
