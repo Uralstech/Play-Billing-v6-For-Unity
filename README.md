@@ -6,4 +6,9 @@ This was made as an experiment to see if ChatGPT or GPT-4 is able to create full
 
 The plugin has not been tested much, so I would not recommend using this, without extensive testing, for production. The limited testing took place in Unity 2021.3.27f1. Please do not expect this to be developed much further in the near future.
 
+Here are the links to some of the chats I had with GPT-3.5 and GPT-4 about this experiment:\
+[Prompt engineering w/ GPT-3.5](https://chat.openai.com/share/2eb8d013-4b28-4466-9314-d97a4157c10a) \
+[Prompt engineering w/ GPT-4 and later GPT-3.5 as I reached the query limit](https://chat.openai.com/share/345ee174-23ab-4250-b2fa-404488a1dd4d) \
+[Prompt engineering w/ GPT-4 and Plugins with the infinite repeat bug](https://chat.openai.com/share/d0f04d33-2f17-4c17-8bd6-26e99590caf1)
+
 Anyone is welcome to contribute to this project. Please check the [CODE OF CONDUCT](https://github.com/Uralstech/Play-Billing-v6-For-Unity/blob/main/CODE_OF_CONDUCT.md) and [CONTRIBUTING GUIDELINES](https://github.com/Uralstech/Play-Billing-v6-For-Unity/blob/main/CONTRIBUTING.md).
