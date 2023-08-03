@@ -23,7 +23,7 @@ The license and notice for this project can be found here: https://github.com/Ur
 
 ## Donations
 
-[![](https://img.shields.io/badge/Buy_me_a_coffee-black?style=for-the-badge&logo=buy-me-a-coffee&color=FFFFFF)](https://bmc.link/udayshankar)
+[![Buy me a coffee!](https://img.shields.io/badge/Buy_me_a_coffee-black?style=for-the-badge&logo=buy-me-a-coffee&color=000000)](https://bmc.link/udayshankar)
 
 ## Contribution
 
