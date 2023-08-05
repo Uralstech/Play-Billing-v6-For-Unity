@@ -1,4 +1,4 @@
-title: "Play Billing For Unity"
+title: "Play Billing Unity"
 email: info@uralstech.in
 description: An easy to use plugin/asset for Unity which lets you integrate Google Play Billing Library v6 and it's features to your app!
 markdown: kramdown
@@ -32,7 +32,7 @@ callouts:
     title: Warning
     color: yellow
 
-footer_content: "The Play Billing For Unity plugin/asset is licensed under the <a href=\"https://github.com/Uralstech/Play-Billing-v6-For-Unity/blob/master/LICENSE.txt\">Apache License, Version 2.0</a>."
+footer_content: "The Play Billing For Unity plugin/asset is licensed under the <a href=\"https://github.com/Uralstech/Play-Billing-v6-For-Unity/blob/master/LICENSE\">Apache License, Version 2.0</a>."
 
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"
