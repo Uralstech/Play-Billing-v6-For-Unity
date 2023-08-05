@@ -1,0 +1,38 @@
+title: "Play Billing For Unity"
+email: info@uralstech.in
+description: An easy to use plugin/asset for Unity which lets you integrate Google Play Billing Library v6 and it's features to your app!
+markdown: kramdown
+encoding: UTF-8
+author: Uralstech
+
+remote_theme: just-the-docs/just-the-docs@v0.4.1
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  
+favicon_ico: "/assets/images/favicon.ico"
+color_scheme: dark
+
+aux_links:
+  "Play Billing For Unity on GitHub":
+    - "//github.com/Uralstech/Play-Billing-v6-For-Unity"
+aux_links_new_tab: true
+
+search:
+  heading_level: 3
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: true
+
+callouts:
+  warning:
+    title: Warning
+    color: yellow
+
+footer_content: "The Play Billing For Unity plugin/asset is licensed under the <a href=\"https://github.com/Uralstech/Play-Billing-v6-For-Unity/blob/master/LICENSE.txt\">Apache License, Version 2.0</a>."
+
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"

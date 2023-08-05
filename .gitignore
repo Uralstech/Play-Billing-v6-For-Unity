@@ -15,3 +15,10 @@ PlayBillingForUnity/.cxx
 PlayBillingForUnity/local.properties
 PlayBillingForUnity/PlayBillingForUnity/libs
 PlayBillingForUnityPlugin.unitypackage
+
+# Jekyll docs
+docs/_site
+docs/.sass-cache
+docs/.jekyll-cache
+docs/.jekyll-metadata
+docs/vendor
