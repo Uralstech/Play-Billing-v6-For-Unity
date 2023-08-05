@@ -6,7 +6,7 @@ This was made as an experiment to see if ChatGPT/GPT-4 is able to create full-fl
 
 I have, with the help of GPT-4, basically fully revamped the code to support most, if not all of the features of Google Play Billing Library v6.0.1. I have tested all functionality, but not in a production app.
 
-The testing was done on Unity 2022.3.4f1.
+The testing was done in Unity 2022.3.4f1.
 
 ## Chat links
 
