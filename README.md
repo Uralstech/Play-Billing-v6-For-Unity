@@ -19,10 +19,6 @@ Here are the links to some of the chats I had with GPT-3.5 and GPT-4 about this 
 
 The license and notice for this project can be found here: https://github.com/Uralstech/Play-Billing-v6-For-Unity/blob/main/LICENSE and here: https://github.com/Uralstech/Play-Billing-v6-For-Unity/blob/main/NOTICE respectively.
 
-## Donations
-
-[![Buy me a coffee!](https://img.shields.io/badge/Buy_me_a_coffee-black?style=for-the-badge&logo=buy-me-a-coffee&color=000000)](https://bmc.link/udayshankar)
-
 ## Contribution
 
 Anyone is welcome to contribute to this project. Please check the [CODE OF CONDUCT](https://github.com/Uralstech/Play-Billing-v6-For-Unity/blob/main/CODE_OF_CONDUCT.md) and [CONTRIBUTING GUIDELINES](https://github.com/Uralstech/Play-Billing-v6-For-Unity/blob/main/CONTRIBUTING.md).
